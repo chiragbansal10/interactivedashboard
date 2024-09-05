@@ -1,0 +1,15 @@
+.dashboardContainer {
+    padding: 20px;
+  }
+  
+  .widgetsContainer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-around;
+  }
+  
+  .settingsContainer {
+    padding: 20px;
+  }
+  
